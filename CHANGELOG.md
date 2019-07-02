@@ -1,0 +1,825 @@
+## 0.5.1 (juin 06, 2019)
+
+
+## 0.5.1 (juin 06, 2019)
+  - Retouch
+  - Retouch
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch
+  - Retouch design
+  - Style file preview - radiobox
+  - Style created modal
+  - Enlarge texte
+  - Fix zooming on iOS
+  - Correct word
+  - Add created with success if Handrail
+  - Create handrail mobile version
+  - Add style
+  - Retouch
+  - Add more condition to show content
+  - Retouch
+  - Style checkbox
+  - Style checkbox (wip)
+  - Retouch
+  - Test vh solution
+  - Retouch
+  - test height
+  - Style thanks modal
+  - Add toggle condition
+  - Add condition to show content only if selected
+  - test
+  - Change layout
+  - Change layout
+  - test
+  - Change service Get minifiedPlaceTrees
+  - test height
+  - test
+  - test height
+  - Change height
+  - Change different height
+  - Reset
+  - test height
+  - Adjust mobile height
+  - Add success page after reporting created
+  - Reouch create reporting
+  - Create reporting
+  - Add component created success
+  - WIP create reporting
+  - WIP create reporting (mobile version)
+  - Resize texte
+  - Resize texte
+  - Fix Bug interventions
+  - Retouch
+  - Add adjustment
+  - Add plugin device detection
+  - Add icons
+  - Retouch
+  - Add myCollegues as input to component creat pattern category
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Add condition to enable only client to have myColleagues
+  - Show manager socialReason
+  - Image avatar placeholder if error
+  - Retouch
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Fix  create pattern
+  - Retouch responsive design
+  - Change comment icon
+  - Update font icons
+  - Adjust icon colors
+  - Retouch
+  - Highlight document name
+  - Retouch
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Adjust comments
+  - retouch design input disabled and placeholder
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch design mobile appearance
+  - Adjust comments
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch design
+  - Adjust string
+  - Search after string min length 3
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Remove consoles
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Adjustment cat listing to show hide arrow pattern
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Authorize user to edit comment
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch design
+  - Adjust search comments
+  - Adjust comments
+  - Adjust layout
+  - Design retouch
+  - Fix error pattern
+  - Adjust layout
+  - Fix date filter
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Allow colleagues to edit  patterns
+  - Fix layout
+  - Show comment counts
+  - Fix merge conflis
+  - Add cancel icon to search comments
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Search on filtered comments
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Adjustment onChange subcategory
+  - Add test handrail hide actions
+  - Hide text
+  - Fix merge
+  - fix merge
+  - Fix merge
+  - Fix conflis
+  - Restore translate
+  - merge comments
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Adjustment Handrail
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Add title to handrail
+  - Add subCategory to handrail
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/SubCategory' into develop
+  - Retouch design
+  - CRUD handrail
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/sub-category' into develop
+  - Adjustment report listing
+  - Adjustment form report to handle subcategory
+  - Add subcategory to detail report
+  - Update Reports model
+  - Merge branch 'feature/handrails' into develop
+  - WIP handrails
+  - Add comment files
+  - Adjust CRUD comments
+  - Update fr.json
+  - Retouch design
+  - Adjustment subCategory in form create report
+  - Adjustment SubCategory form
+  - Add comment search / crud replies
+  - Update fr.json
+  - Add subCategory to report's detail
+  - Add subCategory field to create/edit report
+  - Add subCategory to listing reports
+  - Adjustment category to integrate API
+  - Add comment service
+  - crud comments
+  - Adjust comment model
+  - Update fr json
+  - Adjustment Subcategory form
+  - Add subcategory to reports
+  - Update category/subcategory models
+  - create/edit/delete subcategory's pattern
+  - Adjusment  category listing
+  - Adjustment Category listing
+  - Update package
+  - Adjustment delete category to handle subCategory delete
+  - Add subCatForm to category module
+  - Adjustment design and functionality cat listing to handle subcategorys
+  - Create subCategory form
+  - create  subCategory model
+  - Update translation
+  - Adjust upload file
+  - Add HandRail forms
+  - Retouch design
+  - Adjust submit/reset btns
+  - Merge branch 'feature/reports' into develop
+  - Merge remote-tracking branch 'PROD/develop' into develop
+  - Add patterns distinct names
+  - Remove filter pipe
+  - Merge branch 'feature/mobile-version' into develop
+  - Comment 'commentaires'
+  - Update filtering reports : add service get distinct patterns
+  - Style comments
+  - Merge branch 'feature/reporting-images' into develop
+  - Add gallery to listing reportings
+  - Add search comments
+  - Style comments (mobile)
+  - Add search comments / style add comment -  add response - comments
+  - Add upload files : docx/pdf
+  - Merge branch 'feature/mobile-version' into develop
+  - Style comments (desktop) wip
+  - Install plugin timeago/mentions
+  - Style comments (wip)
+  - Add _buttons.scss
+  - Style comments (mobile)
+  - General Style (mobile)
+  - Style reports (mobile)
+  - Style report details (mobile) wip
+  - Style listing reports (mobile)
+  - Style report status and filters
+  - Add header navbar (mobile)
+  - Merge branch 'feature/report-comments' into develop
+  - Change Comments / interventions to components
+  - Style comments
+  - Add edit comment/ Adjust comments (static)
+  - Add delete comment (static)
+  - Merge branch 'master' into develop
+  - Correct component right
+  - Merge branch 'develop'
+  - Add Img 4 for message screen
+  - add hmcarousel npm
+  - Add screen for future page
+  - Style comments of a reporting
+  - Add Comments to a reporting (WIP)
+  - Remove console log
+  - Change image compress for reporting
+  - Change image compress for recipient intervention
+  - Uninstall plugin ngx-image-compress / install ng2-image-compress
+  - Merge branch 'feature/compress-images' into develop
+  - Test plugin image compression
+  - commit test
+  - Change icons / add empty tabs 'Messages' - 'Works'
+  - Debug ios images add console log
+  - Merge branch 'develop'
+  - Merge branch 'feature/compress-images' into develop
+  - Add module/component New-tab
+  - Hide validate button
+  - Merge branch 'feature/reportings' into develop
+  - Readjust reporting listing layout
+  - Add test if comment exist
+  - Add new buttons
+  - Hide intervention Routing
+  - Compress upload images of reportings
+  - Compress upload images of reportings
+  - Install plugin 'ngx-image-compress'
+  - Add underline to intervention reference
+  - Merge branch 'feature/intervetion-Routing' into develop
+  - Intervention Routing on click reference
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/map' into develop
+  - Map ajustement click boxes
+  - Change align pdf images
+  - Change submit button to click function
+  - Adjust start / end date for intervention
+  - Adjust comment date display hours
+  - Adjust date display hours
+  - Remove .env.ts from version control
+  - Add marker to 'See on cart'
+  - Adjust map zoom
+  - increase height of progress bar
+  - Update favicon
+  - Merge remote-tracking branch 'PROD/develop' into develop
+  - Update img from dashboard
+  - Add temp img to dashboard
+  - https for openstreetmap
+  - Remove logo from login
+  - Change Logo + Title + Update gitignore
+  - Change date format
+  - Add test if places exist (getParentLevelPlacesLength)
+  - Add resend mail for all interventions
+  - Add test if comment exist
+  - Merge branch 'feature/interventions' into develop
+  - Merge
+  - Networking recipient intervention
+  - Networking recipient intervention
+  - Design intervention of recipient
+  - update icons
+  - wip
+  - Add delete endDate to intervention form
+  - Accordion recipient intervention (wip)
+  - Create module update intervention for recipient
+  - Fix btn height
+  - Get place details from map
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch export pdf
+  - Map adjustment
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/mapReturn' into develop
+  - Retouch map
+  - Merge branch 'feature/interventions' into develop
+  - Add edit intervention from listing
+  - Retouch listing interventions
+  - Retouch listing reporting/interventions
+  - Retouch create intervention
+  - Retouch export pdf
+  - Add condition to show no trees
+  - Fix merge
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - General map retouching
+  - Update date format
+  - Add place to intervention
+  - General retouching
+  - Fix merge
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/interventions' into develop
+  - Merge branch 'feature/map' into develop
+  - Retouch customize map
+  - Networking interventions
+  - change popup map
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Networking all interventions
+  - Uncomment code
+  - Comment code
+  - Hide map
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/Intervention' into develop
+  - Hide/comment intervention code
+  - Networking crud interventions of a reporting (wip)
+  - Networking crud interventions of a reporting (wip)
+  - Add module Interventions / listing interventions
+  - Delete intervention of a reporting
+  - Create/update interventions of a reporting
+  - Listing interventions of a reporting
+  - Install plugin ngx-gallery/gallerize
+  - Add module Interventions / add component listing
+  - improve pdf quality
+  - Change markerCluster color
+  - Fix merge conflit
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/reports' into develop
+  - Finish export pdf
+  - remove staticmaps
+  - Change map tiles
+  - Map adjustments
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Change icon name
+  - Export reporting details to pdf
+  - Export reporting details to pdf (WIP)
+  - Add component export pdf
+  - Install plugin jsPDF
+  - Update Readme file
+  - Update Readme file
+  - fix marker path
+  - add Static map node plugin
+  - Add header to map
+  - Fix merge conflit
+  - Fix merge conflit
+  - Merge branch 'feature/map' into develop
+  - Change marker icon
+  - Update fontello icons
+  - Add marker cluster  to map
+  - Install plugin leaflet marker cluster
+  - Change icons
+  - update readme / serve.js
+  - Delete unused code
+  - Delete unused components
+  - Init marker after form submit (new place)
+  - Fix header (responsive)
+  - Fix header on top for all pages
+  - Fix table head position/scroll - add condition for no data
+  - Adjustment
+  - Replace icons path
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/map' into develop
+  - add custom marker and custom popup to the map
+  - Retouch style
+  - Delete unused component
+  - Retouch
+  - Adjust levels / listings reports
+  - Edit icons
+  - Retouch style categories listing
+  - Add remaining places / fix marker place
+  - Add icons to fontello
+  - Adjust style for listing reports
+  - Adjust style for all places
+  - Adjust style listing reports for ipad
+  - Show multi-motif (categories) for ipad
+  - Show error msg for hyperadmin / duplicate  map
+  - Add map to report details
+  - Show no categories if empty
+  - Add ng-select not found text
+  - Alert for unsaved level
+  - Color placeholder
+  - Edit min-height
+  - change translation
+  - Show status after filter
+  - Style filters
+  - status title + count
+  - Comment map
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - change status colors
+  - Add button select color from image / disable, enable canvas click
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - add map module
+  - Adjust reporting after database modification
+  - Change button style / edit client image
+  - Edit Edit level, users
+  - Show either username or socialReason (sidebar)
+  - Add max tree depth to create superclient
+  - Adjustment
+  - Adjustment
+  - Show arrow for all patterns
+  - delete show socialreason
+  - Show username/ socialreason user
+  - Adjustment
+  - Adjustment
+  - Test img
+  - Adjustment
+  - Adjustment
+  - Adjustment
+  - Color picker (wip)
+  - Adjustment
+  - Adjustment
+  - Adjustment
+  - Adjustment
+  - Adjustment
+  - Adjustment
+  - Adjust users
+  - Adjustment
+  - Adjust close icon, padding categories
+  - Merge branch 'feature/Modification' into develop
+  - Retouch categories
+  - Adjustment
+  - Adjustment places/trees/levels/categories
+  - Crud places
+  - Fix merge
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/Modification' into develop
+  - Adjust places (wip)
+  - Change Crud places/levels/trees
+  - Crud trees
+  - FO Crud places (wip)
+  - fix map style mobile
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - remove google key
+  - replace google maps with leaflet/openstreetmap
+  - Confirm delete pattern (wip)
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/Modification' into develop
+  - Edit color picker from an image
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - fix collapse on resize
+  - auto focus
+  - Merge branch 'feature/Modification' into develop
+  - Adjust layout / Edit users
+  - add new pattern
+  - Merge branch 'feature/Modification' into develop
+  - Edit users (WIP)
+  - Edit users add screenshot + colorpicker
+  - Edit categories/patterns (WIP)
+  - Install plugin html2canvas
+  - Edit categories/patterns (WIP)
+  - Edit categories/patterns (WIP)
+  - Add color picker to Users
+  - Install ngx-color-picker
+  - Fix responsive
+  - Add NgbModalModule
+  - Fix date
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Add force delete place-types
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - handle 404 on user creation
+  - Add force delete categories
+  - optimize moment locales
+  - fix onchange username/email after error
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Adjustment
+  - add report with allowed types only
+  - bundle report
+  - remove unused header comp.
+  - remove unnecessary imports and modules
+  - add install bundle analyzer
+  - change lightbox plugin
+  - Merge branch 'feature/Adjustment' into develop
+  - Adjust date filter
+  - Add error msg create reporting
+  - Add error msg create reporting
+  - Merge branch 'feature/Adjustment' into develop
+  - Change filters (wip)
+  - Change filters (wip)
+  - Finish adjustment
+  - Adjust forms places
+  - Change filters (multiple choices)
+  - Change edit reporting (add/remove pictures then save)
+  - Change filters (multiple choices) WIP
+  - Change date for create reporting
+  - Fix dates
+  - Change add button to right side
+  - Reinitiase Filters listing reporting
+  - Adjust forms places
+  - Adjust forms reporting
+  - Adjust reporting
+  - Update translation
+  - Add attention msg
+  - Change place reference null
+  - Adjust filters when deleting place
+  - Merge branch 'feature/Adjustment' into develop
+  - Fix pagination
+  - Fix pagination
+  - Set default status count
+  - Set default status count
+  - Add error msg for creation reporting
+  - Fix return back
+  - Return back update page in session if no items in page
+  - Adjust edit reportings
+  - Change all create/edit forms to Modals
+  - Fix error no trees
+  - Show error msgs
+  - fix resport status model
+  - Merge branch 'feature/Adjustment' into develop
+  - Adjust filters / retouch
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Finish crud patterns all roles / retouch
+  - fix cache expiration date
+  - fix
+  - add cache expiration date
+  - enable gzip compression
+  - Crud patterns all roles (WIP)
+  - Fix role
+  - Adjust translation / retouch
+  - Fix style daterange
+  - Fix span
+  - Fix style
+  - Adjust details style
+  - Fix layout
+  - Fix ng-select
+  - Merge branch 'feature/networking-reports' into develop
+  - Add filters to listing reportings
+  - Retouch reports
+  - Merge remote-tracking branch 'origin/feature/networking-reports' into feature/networking-reports
+  - date timezone fix
+  - Show range dates in reports listing
+  - Remove console.log
+  - Retouch crud reports
+  - Add Edit pattern
+  - Add ReportingPlaceTree to reporting
+  - Add place reference
+  - Adjust places- reports
+  - Adjust categories style - retouch
+  - Add delete component and adjust forms
+  - Adjust details and listing Reports
+  - Add pictureRequired to Categories
+  - Merge remote-tracking branch 'origin/feature/networking-reports' into feature/networking-reports
+  - Adjust reporting (WIP)
+  - fix ExpressionChanged error
+  - upload / remove report image
+  - Adjust reporting
+  - Remove plugin ng-pick-datetime
+  - Update reporting/ delete reporting
+  - Create reporting
+  - Config daterangepicker
+  - Install plugin moment / install plugin ng2-daterangepicker
+  - CRUD reporting (WIP)
+  - Create reporting
+  - Change btn (voir) clients (custom-icon)
+  - Add report forms / service (WIP)
+  - Adjust report details
+  - Add scroll to top / scroll to bottom for Places listing
+  - Add lightbox to report Details
+  - Install plugin ngx-lightbox
+  - Add translation to placeTypes
+  - Add translation to Places
+  - Add translation to Categories
+  - Adjust report details
+  - Add pagination to listing reports
+  - Install plugin ngx-pagination
+  - Adjust reports listing
+  - Adjust report details
+  - Add model report / model status
+  - Translate listing / details
+  - Add report details
+  - Add create report (wip)
+  - Add listing reports
+  - Create new report (WIP)
+  - Style pick_datetime
+  - Install plugin pick-datetime
+  - Restyle create report
+  - Add return back link and change 'add' button (Reports)
+  - Adjust style for Categories
+  - Add scroll (WIP)
+  - Add scroll (WIP)
+  - Add the selected's parent in Places
+  - Merge branch 'feature/patterns' into develop
+  - Add scroll to top
+  - Add return back link and change 'add' button (Place-types / Places)
+  - Add return back link and change 'add' button (Users)
+  - Add return back link and change 'add' button (Categories)
+  - Search: delete history
+  - Remove the "search" fields and replace them with: Level 1, Level 2, ...
+  - Reverse Order Place-Types<==> Places
+  - Add preview btn to list categories
+  - Add delete pattern
+  - Add create/update pattern
+  - Add listings patterns by category
+  - edit place fix
+  - Fix active place when deleted
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/translation' into develop
+  - set html theme color
+  - Translate module users
+  - add * to required fields
+  - small fix
+  - Fix merge
+  - Merge
+  - Translate module users (WIP)
+  - Translate categories module
+  - fixes
+  - Translate place-types module
+  - Translate places module
+  - Translate authentication module
+  - Add translate plugin to all modules
+  - Install translate plugin
+  - Install plugins: translate / translate-http-loader
+  - Change search bar from ng-select to input form
+  - Fix switch receive reporting
+  - Adjust toastr: prevent duplicates
+  - Fix reporting initialisation
+  - fix google maps error
+  - reset address on edit
+  - reload place on add
+  - fix typo
+  - fix typo
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Adjust place style
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - fix shown errors
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch places / place-types style
+  - add test on negatif numbers
+  - fix create place
+  - change api key
+  - change api key
+  - add test on user fields
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Adjust dashboard style
+  - show delete cat toastr
+  - fix icon contain
+  - fix console error
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - place managers test
+  - Add limite test
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch add place
+  - fix delete admin
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - places limit test
+  - Retouch tree places
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Delete Super Client
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - show limits
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/retouch-general' into develop
+  - Retouch place-types
+  - Retouch places
+  - text delete user fix
+  - Retouch place-types
+  - Retouch places
+  - Retouch users
+  - Retouch layout
+  - Retouch authentication
+  - fix save and create other
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - fix place select / edit place
+  - Merge branch 'feature/retouch-general' into develop
+  - Retouch general
+  - Edit Place (WIP)
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - edit place
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/placeTypes-networking' into develop
+  - Networking places
+  - networking place-types
+  - remove type cat toastr
+  - edit admin + fixes
+  - networking select/validate add type
+  - Add compnent delete tree networking
+  - add regex tests to user
+  - add label to file upload
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - add dashboard module
+  - Merge branch 'feature/general-retouch' into develop
+  - Retouch general
+  - add toastr to users management
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/places-networking' into develop
+  - Adjust create place
+  - fixes
+  - set favicon
+  - fix merge
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - create place networking
+  - Merge branch 'feature/places-networking' into develop
+  - Adjust add Tree place-types
+  - Networking Places (delete)
+  - Networking listing places
+  - fix role guard
+  - merge fixes
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/users_crud' into develop
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/placeTypes-networking' into develop
+  - Networking places (WIP)
+  - Add service places
+  - Add place model / tree place model
+  - edit client
+  - hide pages from admin
+  - add client
+  - fix users route path
+  - add logo placeholder
+  - add admin
+  - fix delete user
+  - role-guard service
+  - Networking all trees / all types
+  - Networking update tree
+  - Networking create tree
+  - Fix interceptor
+  - Add models
+  - user-mangament fixes
+  - Merge branch 'develop' into feature/users_management
+  - fix redirect on 401
+  - users listing
+  - users listing
+  - Add component to create new placeTypes tree
+  - Order sidebar menu items
+  - Adjust tables style
+  - create user networking
+  - create user networking
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch general style
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - forget/reset password
+  - Fix sidebar style
+  - Adjust style
+  - redirect wrong urls
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch responsive
+  - fix auth module routes
+  - Retouch general
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/general-retouch' into develop
+  - Adjust style for place-types
+  - Adjust style for categoies
+  - Adjust style for places
+  - add form validation on white space
+  - Adjust style for reports / place-types
+  - placetypes networking
+  - Adjust style for tree of place-type
+  - fix typo
+  - fix edit category validation
+  - fixes
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - networking
+  - layout
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/general_retouch' into develop
+  - Adjust type_places
+  - Add created_by to listing tree of places
+  - set base url
+  - Change save button to primary
+  - Adjust style
+  - Adjust places
+  - Adjust type-places
+  - Adjust aside
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/tree_placeTypes' into develop
+  - Adjust select type/ delete type / delete tree
+  - change colors / remove header
+  - Add delete tree/type
+  - fix routing for authentication
+  - Adjust select type
+  - add progressbar
+  - add toastr
+  - set auth service / remove toastr
+  - create authguard
+  - set base url / fix interceptor
+  - add user/admin UI
+  - Add select type to tree
+  - Add component select-type
+  - add client/admin UI (WIP)
+  - Add create a tree (type_places)
+  - create module
+  - test
+  - places type listing
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Add component listing of the Trees of place_types
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - update angular-devkit
+  - update README
+  - Retouch Places /Types
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Retouch places / types places
+  - change port
+  - change port
+  - rename env file
+  - setup HttpClient
+  - Fix build errors
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Fix build errors
+  - fix build errors
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Merge branch 'feature/place-types' into develop
+  - fix build errors
+  - install express plugin
+  - Style checkbox / change icons
+  - Add crud for type of places
+  - Style listing (type des lieux)
+  - Merge branch 'feature/Places' into develop
+  - Retouch Places
+  - Adjust search
+  - Add router link for add/edit place
+  - Fix scroll after Place select
+  - Fix merge
+  - Merge remote-tracking branch 'origin/develop' into develop
+  - Change Places structure
+  - Style last type of each Tree (Places)
+  - Add Global search for Places
+  - Remove add Modal / edit Modal + retouch
+  - Select active place/select active children/add function hasNoChildren
+  - Change Tree (Places) : WIP
+  - change places module router / add place form
+  - report form fixes
+  - Add search of a place
+  - Add 'Edit place'
+  - Add component 'deleteModal'  to 'level'
+  - Adjust module Places
+  - Style places
+  - Style and Configure 'Places/Levels'
+  - Add component 'Level' to 'Places' module
+  - Add activeRoute, Adjust style
+  - places
+  - Commit e2e
+  - Add module place-types
+  - Add module places
+  - Add module reports
+  - Add module authentication
+  - Add assets
+  - Add main structure / layout module
+  - Install plugins: ng-select / angular-file / fontawesome / ngx-toasta
+  - Add gitignore
+  - Initial commit
+  - add README
+
