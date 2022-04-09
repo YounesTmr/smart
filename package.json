@@ -44,7 +44,7 @@
     "jspdf": "^1.5.3",
     "leaflet": "^1.4.0",
     "leaflet.markercluster": "^1.4.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "ng2-daterangepicker": "^2.0.12",
     "ng2-image-compress": "^7.0.7",
     "ngx-color-picker": "^7.2.0",
